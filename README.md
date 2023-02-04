@@ -1,2 +1,2 @@
-# Djikstra-s_Path_Finding
-A* Path Finding Astar Path Finding Algorithm with diagonal movement and euclidean distance as the heuristics function.
+# PathFindingVisualiser
+Visualises the path finding algorithms, DFS, BFS, Dijkstra's and A*.
